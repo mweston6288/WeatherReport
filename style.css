@@ -1,0 +1,12 @@
+.header{
+    font-size: 2rem;
+    text-align: center
+}
+
+.searchBar{
+    margin-bottom: 20px;
+}
+.forecast{
+    background-color: cornflowerblue;
+    margin: .2rem;
+}
